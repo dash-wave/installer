@@ -1,2 +1,2 @@
-# installer
-Installer for dashwave.
+# Dashwave Installer
+NSIS <3
